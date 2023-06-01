@@ -1,2 +1,2 @@
 # Forecasts
-A Forecast Project of Chile's Main Macroeconomic Time Series
+A Repository for Forecasting Projects
